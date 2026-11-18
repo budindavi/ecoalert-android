@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Tema da janela; a interface é toda construída em Jetpack Compose. -->
+    <style name="Theme.EcoAlert" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#0B2545</item>
+    </style>
+</resources>

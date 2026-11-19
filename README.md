@@ -169,7 +169,7 @@ Versões: Kotlin 2.1.0, AGP 8.7.3, Gradle 8.11.1, Compose BOM 2024.12.01, compil
 
 ## Vídeo pitch
 
-Link do YouTube: _adicionar o link público do vídeo aqui_
+Link do YouTube: https://youtu.be/LyXDn6NMR7k
 
 ## Créditos das imagens
 
